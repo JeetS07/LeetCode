@@ -7,6 +7,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JeetS07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 ## Two Pointers
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -37,4 +40,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
