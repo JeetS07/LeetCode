@@ -70,6 +70,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/JeetS07/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
