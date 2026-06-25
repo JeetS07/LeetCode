@@ -8,9 +8,9 @@ public:
             return;
         }
 
-        bt(nums,temp,i+1);
+        bt(nums,temp,i+1); // not including current
         temp.push_back(nums[i]);
-        bt(nums,temp,i+1);
+        bt(nums,temp,i+1); // including current
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
@@ -18,3 +18,6 @@ public:
         return ans;
     }
 };
+
+// Backtracking
+// O(n*2^n) O(n*2^n)
