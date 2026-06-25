@@ -18,3 +18,10 @@ public:
         return ans;
     }
 };
+
+// O(n) O(n)
+// we are using a array temp of nums size, index of temp represent freq
+// while iterating throuhg freq map, we push the element to that in temp on the index of its freq
+// eg. nums={2,3,2,2,4} m={2->3},{3->1},{4->1}
+// temp={{},{4,3},{},{2}}
+//       0    1   2   3
