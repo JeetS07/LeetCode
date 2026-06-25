@@ -25,3 +25,4 @@ public:
 // eg. nums={2,3,2,2,4} m={2->3},{3->1},{4->1}
 // temp={{},{4,3},{},{2}}
 //       0    1   2   3
+// then traversing back from temp and adding elements until ans size==k
