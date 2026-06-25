@@ -13,3 +13,8 @@ public:
         return ans;
     }
 };
+
+// using brute force
+// incrementing count by 1 when a target is found and decrementing by one when not
+// thus whenever there is a subarray with target majority elements, count will be > 0
+// O(n^2) O(1)
