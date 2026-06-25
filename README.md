@@ -9,6 +9,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0033-search-in-rotated-sorted-array](https://github.com/JeetS07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,24 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
