@@ -13,6 +13,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,14 +61,17 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +81,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
