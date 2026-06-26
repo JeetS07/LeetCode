@@ -8,6 +8,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JeetS07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
