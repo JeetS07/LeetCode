@@ -10,6 +10,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JeetS07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JeetS07/LeetCode/tree/master/0189-rotate-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JeetS07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/JeetS07/LeetCode/tree/master/0189-rotate-array) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 ## String
