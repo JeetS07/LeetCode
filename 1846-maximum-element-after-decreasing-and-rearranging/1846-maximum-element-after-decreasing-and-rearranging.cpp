@@ -9,3 +9,7 @@ public:
         return arr[arr.size()-1];
     }
 };
+
+// O(n) O(1) Greedy
+// sorting(operation 2) and setting 1st element to 1(operation 1)
+// starting from 2nd, lowering each element to arr[i-1]+1 if greater than that(operation 1)
