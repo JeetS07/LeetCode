@@ -17,6 +17,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0137-single-number-ii](https://github.com/JeetS07/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JeetS07/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/JeetS07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
