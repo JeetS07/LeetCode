@@ -26,11 +26,11 @@ public:
 
                 if(!isValid(nx,ny,m,n)) continue; 
 
-                if(result[x][y]+grid[nx][ny]<result[nx][ny]){
-                    result[nx][ny] = result[x][y]+grid[nx][ny];
+                if(result[x][y]+grid[nx][ny]<result[nx][ny]){ 
+                    result[nx][ny] = result[x][y]+grid[nx][ny]; // better path found
 
-                    if(grid[nx][ny]==0) dq.push_front({nx,ny});
-                    else dq.push_back({nx,ny});
+                    if(grid[nx][ny]==0) dq.push_front({nx,ny}); // current path is 0 
+                    else dq.push_back({nx,ny}); // current path is 1
                 }
             }
         }
@@ -39,3 +39,5 @@ public:
         return (health-x)>=1;
     }
 };
+
+// 0-1 BFS O(mn) O(mn)
