@@ -12,3 +12,7 @@ public:
         return false;
     }
 };
+
+// O(log mn) O(1) Binary Search
+// treating matrix as a linear array of size m*n
+// we map curr in linear array to matrix by matrix[mid/n][mid%n];
