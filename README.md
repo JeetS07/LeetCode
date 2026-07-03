@@ -16,6 +16,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/JeetS07/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JeetS07/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0003-longest-substring-without-repeating-characters](https://github.com/JeetS07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JeetS07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JeetS07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JeetS07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
@@ -190,4 +194,12 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
