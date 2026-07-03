@@ -29,5 +29,5 @@ public:
 };
 
 // O(logn) O(1)
-// we perform bs 2 time, one time for first next for last
+// we perform Binary Search 2 times, one time for first second time for last
 // for each, when we find the result we go more left or more right depending on dir(direction)
