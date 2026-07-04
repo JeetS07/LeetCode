@@ -156,16 +156,19 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
