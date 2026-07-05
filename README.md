@@ -23,6 +23,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0209-minimum-size-subarray-sum](https://github.com/JeetS07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JeetS07/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JeetS07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
+| [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
