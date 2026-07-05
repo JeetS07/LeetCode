@@ -14,14 +14,14 @@ class Solution {
 
     pair<int, int> solve(int i, int j, vector<string>& board) {
         if (board[i][j] == 'E') // found one path that reaches end
-            return {0, 1};   
-        if (board[i][j] == 'X') 
-            return {0, 0}; 
+            return {0, 1};
+        if (board[i][j] == 'X') // no valid path if obstacle found
+            return {0, 0};
 
         if (dp[i][j] != make_pair(-1, -1))
             return dp[i][j];
 
-        int upScore = 0,   upPaths = 0;
+        int upScore = 0, upPaths = 0;
         int leftScore = 0, leftPaths = 0;
         int diagScore = 0, diagPaths = 0;
         char ch = board[i][j];
@@ -49,37 +49,37 @@ class Solution {
         }
 
         int bestScore, bestPaths;
-        if (upScore == leftScore && leftScore == diagScore) { // all 3 direction contribute to highest score
+        if (upScore == leftScore && leftScore == diagScore) { // all 3 direction same score
             bestScore = upScore;
             bestPaths = upPaths + leftPaths + diagPaths;
         } 
-        else if (upScore == leftScore) { // 2 direction contribute to highest score
+        else if (upScore == leftScore) { // 2 direction same score
             bestScore = upScore; 
             bestPaths = upPaths + leftPaths;
-            if (diagScore > bestScore || (diagScore == bestScore && diagPaths > bestPaths)) {
+            if (diagScore > bestScore) {
                 bestScore = diagScore; bestPaths = diagPaths;
             }
         } 
-        else if (leftScore == diagScore) { // 2 direction contribute to highest score
+        else if (leftScore == diagScore) { // 2 direction same score
             bestScore = leftScore;
             bestPaths = leftPaths + diagPaths;
-            if (upScore > bestScore || (upScore == bestScore && upPaths > bestPaths)) {
+            if (upScore > bestScore) {
                 bestScore = upScore; bestPaths = upPaths;
             }
         } 
-        else if (upScore == diagScore) { // 2 direction contribute to highest score
+        else if (upScore == diagScore) { // 2 direction same score
             bestScore = upScore;
             bestPaths = upPaths + diagPaths;
-            if (leftScore > bestScore || (leftScore == bestScore && leftPaths > bestPaths)) {
+            if (leftScore > bestScore) {
                 bestScore = leftScore; bestPaths = leftPaths;
             }
         } 
-        else { // 1 direction contribute to highest score
+        else { // no direction same score
             bestScore = upScore; bestPaths = upPaths;
-            if (leftScore > bestScore || (leftScore == bestScore && leftPaths > bestPaths)) {
+            if (leftScore > bestScore) {
                 bestScore = leftScore; bestPaths = leftPaths;
             }
-            if (diagScore > bestScore || (diagScore == bestScore && diagPaths > bestPaths)) {
+            if (diagScore > bestScore) {
                 bestScore = diagScore; bestPaths = diagPaths;
             }
         }
@@ -92,7 +92,7 @@ public:
     vector<int> pathsWithMaxScore(vector<string>& board) {
         n = board.size();
         
-        dp.assign(n, vector<pair<int, int>>(n, {-1, -1}));
+        dp.assign(n, vector<pair<int,int>>(n, {-1, -1}));
 
         auto result = solve(n - 1, n - 1, board);
         return {result.first, result.second};
@@ -101,3 +101,7 @@ public:
 
 //(Recursion + DP Memoization)
 // O(n^2) O(n^2)
+// for each node we have 3 choices up, left, top left diag
+// then comparing all 3 scores and paths to find the highest
+// and if multiple paths contributed to highest score to add 
+// up their contribution
