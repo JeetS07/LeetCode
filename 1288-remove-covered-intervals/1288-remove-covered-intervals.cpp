@@ -16,3 +16,9 @@ public:
         return ans.size();
     }
 };
+
+// O(nlogn) O(n)
+// sorting in increasing base on intervals[i][0], if it is equal then sort in decreasing for intervals[i][1];
+// after sorting we will get our first valid interval at ans[0],then start comparing towards right
+// intervals[i][0] is already in order, we just need to check for intervals[i][1]<=ans.back()[1] then its
+// covered otherwise push it to ans as a valid interval
