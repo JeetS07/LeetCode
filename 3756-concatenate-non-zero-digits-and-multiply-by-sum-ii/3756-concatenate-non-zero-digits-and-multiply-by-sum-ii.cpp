@@ -64,3 +64,6 @@ public:
         return result;
     }
 };
+
+// using prefix array to compute sum, nonzero number obtained so far, no. of nonzero digits found
+// and finding power using prefix array to save time
