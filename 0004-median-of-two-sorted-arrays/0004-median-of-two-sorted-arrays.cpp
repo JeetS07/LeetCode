@@ -8,6 +8,7 @@ public:
 
         int l=0, r=a.size()-1;
         while(true){
+            // if(l+r)<0 we want i to be INT_MIN, but cpp uses integer division i.e. for -1/2, cpp rounds it off to 0 and not -1
             int i = (l+r < 0) ? -1 : ((l + r) / 2); // partition in a ;
             int j = half-i-2; // partition in b
 
@@ -28,3 +29,11 @@ public:
         return 0;
     }
 };
+
+// O(log(min(a_size,b_size))) O(1)
+// first we consider a as minimum length array, then mark its mid as parition, and half-mid as partition of larger array
+// as half elements we wil have in our left partition. Now 
+// if:
+// leftA<=rightB and leftB<=rightA, then we already did a correct partition, then find its median
+// else:
+// we reduce or increase elements from a based on requirement
