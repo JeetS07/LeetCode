@@ -27,7 +27,7 @@ public:
 
                 int out=elements.size()-1;
                 bool flag=true;
-                for(int i:elements){
+                for(int i:elements){ // checking if connected component is complete
                     if(adj[i].size()<out) flag=false;
                 }
 
@@ -38,3 +38,9 @@ public:
         return ans;
     }
 };
+
+// O(V+E) O(V+E)
+// Applying normal dfs to mark connected components true and for all node
+// in a connected component, we are storing the nodes in elements, then if
+// all node have a outgoing edge (total nodes in the component - 1) then all are connected to 
+// each other, hence it is a complete connected component and increasing ans.
