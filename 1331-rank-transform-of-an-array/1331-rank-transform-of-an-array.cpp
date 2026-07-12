@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
+        ios::sync_with_stdio(0); // ignore
+        cin.tie(0); // ignore
+
         if(arr.size()==0) return {};
 
         vector<int> rank(arr.size()), nums=arr;
