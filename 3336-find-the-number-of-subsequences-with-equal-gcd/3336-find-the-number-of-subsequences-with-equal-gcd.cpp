@@ -1,37 +1,25 @@
 class Solution {
-    static constexpr int MOD = 1e9 + 7;
-
 public:
+    int dp[201][201][201];
+    int MOD = 1e9 + 7;
+    int recursion(vector<int>& nums, int i, int first, int second){
+        if(i==nums.size()){
+            bool noSeqEmpty = (first!=0 && second!=0);
+            bool isEqualGcd = (first==second);
+
+            return (noSeqEmpty && isEqualGcd) ? 1 : 0;
+        }
+        if(dp[i][first][second]!=-1) return dp[i][first][second];
+
+        int skip = recursion(nums,i+1,first,second);
+        int take1 = recursion(nums,i+1,__gcd(first,nums[i]),second);
+        int take2 = recursion(nums,i+1,first,__gcd(second,nums[i]));
+
+        return dp[i][first][second] = (0LL + skip + take1 + take2) % MOD;
+    }
+
     int subsequencePairCount(vector<int>& nums) {
-        int m = *max_element(nums.begin(), nums.end());
-        int n = nums.size();
-
-        vector<vector<int>> dp(m + 1, vector<int>(m + 1));
-        dp[0][0] = 1;
-
-        for (int num : nums) {
-            vector<vector<int>> ndp(m + 1, vector<int>(m + 1));
-            for (int j = 0; j <= m; j++) {
-                int divisor1 = gcd(j, num);
-                for (int k = 0; k <= m; k++) {
-                    int val = dp[j][k];
-                    if (val == 0) {
-                        continue;
-                    }
-                    int divisor2 = gcd(k, num);
-                    ndp[j][k] = (ndp[j][k] + val) % MOD;
-                    ndp[divisor1][k] = (ndp[divisor1][k] + val) % MOD;
-                    ndp[j][divisor2] = (ndp[j][divisor2] + val) % MOD;
-                }
-            }
-            dp.swap(ndp);
-        }
-
-        int ans = 0;
-        for (int j = 1; j <= m; j++) {
-            ans = (ans + dp[j][j]) % MOD;
-        }
-
-        return ans;
+        memset(dp,-1,sizeof(dp));
+        return recursion(nums,0,0,0);
     }
 };
