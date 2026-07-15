@@ -270,4 +270,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JeetS07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JeetS07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/JeetS07/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
