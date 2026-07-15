@@ -24,6 +24,7 @@ public:
     }
 };
 
+// Recursion + Memoisation
 // we go through all elements, for each we have 3 choices:
 // dont take current, take current in 1st seq, take current in 2nd seq
 // and simultaneously we calculate gcd on the fly using __gcd stl
