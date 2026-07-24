@@ -18,3 +18,8 @@ public:
         return s2.size();
     }
 };
+
+// O(n*n)+O(maxElement*n) O(maxElement)
+// If we check all triplets in 3 nested loops, it will be O(n^3),
+// so we first form xor of all duplets of nums, then with those duplets,
+// we check all elements in nums, finally return s2 size
