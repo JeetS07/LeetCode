@@ -8,15 +8,15 @@ public:
         for(int i=0;i<26;i++){
             char curr='a'+i;
             
-            if(freq[i]%2 != 0) mid+=curr;
+            if(freq[i]%2 != 0) mid+=curr; // separating 1 element from odd freq char
 
-            first+=(string(freq[i]/2,curr));
+            first+=(string(freq[i]/2,curr)); // appending first half
         }
 
         last = first;
-        reverse(last.begin(),last.end());
+        reverse(last.begin(),last.end()); // forming last half
 
-        return first+mid+last;
+        return first+mid+last; // merging to ans
     }
 };
 
