@@ -37,3 +37,11 @@ public:
         return ans;   
     }
 };
+
+// Fenwick Tree
+// O(nlogn) O(n)
+// we are first sorting the array by preserving the indexes
+// now we keep bit array with 0, and starting from smallest element,
+// we keep placing 1 on that index and find the ranged sum from that
+// index to right, that gives the count of smaller element to the right
+// of that index
