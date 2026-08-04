@@ -23,3 +23,9 @@ public:
         return (length==INT_MAX) ? "" : s.substr(start,length);
     }
 };
+
+// sliding window
+// first we store count of elements in c, now we keep decrementing freq count of jth element and j moves ahead,
+// also we decrease c if jth element is from t, now when we hit c==0 means all t elements are in s, at this point
+// we try to minimize the answer by removing ith element from window while c==0, parellely we store the min length 
+// and start of min window so we can reconstruct the ans with substr
