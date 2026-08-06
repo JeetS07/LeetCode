@@ -257,6 +257,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JeetS07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/JeetS07/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/JeetS07/LeetCode/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
@@ -424,6 +425,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JeetS07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/JeetS07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
