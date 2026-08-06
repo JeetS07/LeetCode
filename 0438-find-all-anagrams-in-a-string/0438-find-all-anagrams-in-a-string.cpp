@@ -14,7 +14,6 @@ public:
 
         while(j<n1){
             if(size==n2){
-                if(freq1==freq2) ans.push_back(i);
                 freq1[s[i]-'a']--;
                 i++;
                 size--;
@@ -22,9 +21,9 @@ public:
             freq1[s[j]-'a']++;
             j++;
             size++;
-        }
 
-        if(size==n2 && freq1==freq2) ans.push_back(i);
+            if(size==n2 && freq1==freq2) ans.push_back(i);
+        }
 
         return ans;
     }
