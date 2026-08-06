@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) { // sort and merge 2 lists
         if(!l2) return l1;
         if(!l1) return l2;
 
@@ -31,15 +31,19 @@ public:
 
         int mid = left+(right-left)/2;
 
-        ListNode* l1 = partitionAndMerge(left,mid,lists);
-        ListNode* l2 = partitionAndMerge(mid+1,right,lists);
+        ListNode* l1 = partitionAndMerge(left,mid,lists); // break left
+        ListNode* l2 = partitionAndMerge(mid+1,right,lists); // break right
 
-        return mergeTwoLists(l1,l2);
+        return mergeTwoLists(l1,l2); // sort and merge
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int k=lists.size();
         if(k==0) return NULL;
+
         return partitionAndMerge(0,k-1,lists);
     }
 };
+
+// Recursion, merge sort
+// we are breaking all lists and merging individual list using mergeTwoLists()
