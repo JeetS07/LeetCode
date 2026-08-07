@@ -18,7 +18,10 @@ public:
 
         if(!root->left && !root->right) return sum;
 
-        return solve(root->left,sum)+solve(root->right,sum);
+        int left = solve(root->left,sum);
+        int right = solve(root->right,sum);
+
+        return left + right;
     }
 
     int sumNumbers(TreeNode* root) {
