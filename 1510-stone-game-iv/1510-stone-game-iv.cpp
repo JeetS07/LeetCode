@@ -5,7 +5,7 @@ public:
         if(n<=0) return 0;
         if(dp[n]!=-1) return dp[n];
         for(int i=1;i*i<=n;i++){
-            // if second player return false, first player wins
+            // if next player return false, current player wins
             if(solve(n-i*i)==0) return dp[n] = 1;
         }
         return 0;
