@@ -16,6 +16,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JeetS07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/JeetS07/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/JeetS07/LeetCode/tree/master/0137-single-number-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/JeetS07/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
