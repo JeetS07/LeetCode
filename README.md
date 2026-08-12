@@ -12,6 +12,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0041-first-missing-positive](https://github.com/JeetS07/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JeetS07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/JeetS07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
