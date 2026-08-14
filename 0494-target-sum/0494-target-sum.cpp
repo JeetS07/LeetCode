@@ -21,3 +21,7 @@ public:
         return solve(0,0,nums,target);
     }
 };
+
+// DP, Recursion
+// when we reach end of nums, we return 1 if target found else 0
+// at each step we have 2 choices, take nums[i] and -nums[i] ans keep appending ans
