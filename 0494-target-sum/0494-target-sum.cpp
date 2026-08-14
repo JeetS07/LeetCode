@@ -8,12 +8,12 @@ public:
         }
         if(dp[i][sum+1000]!=-1) return dp[i][sum+1000];
 
-        int ans=0;
+        // int ans=0;
 
-        ans+= solve(i+1,sum+nums[i],nums,target);
-        ans+= solve(i+1,sum-nums[i],nums,target);
+        int pos = solve(i+1,sum+nums[i],nums,target);
+        int neg = solve(i+1,sum-nums[i],nums,target);
 
-        return dp[i][sum+1000] = ans;
+        return dp[i][sum+1000] = (pos+neg);
     }
     
     int findTargetSumWays(vector<int>& nums, int target) {
