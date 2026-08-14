@@ -10,8 +10,8 @@ public:
 
         int ans=0;
 
-        ans+= nums[i] + solve(i+1,sum+nums[i],nums,target);
-        ans+= -nums[i] + solve(i+1,sum-nums[i],nums,target);
+        ans+= solve(i+1,sum+nums[i],nums,target);
+        ans+= solve(i+1,sum-nums[i],nums,target);
 
         return dp[i][sum+1000] = ans;
     }
