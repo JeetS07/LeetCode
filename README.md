@@ -191,6 +191,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JeetS07/LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JeetS07/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JeetS07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JeetS07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
