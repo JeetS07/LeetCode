@@ -31,6 +31,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/JeetS07/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/JeetS07/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0300-longest-increasing-subsequence](https://github.com/JeetS07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/JeetS07/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/JeetS07/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0052-n-queens-ii](https://github.com/JeetS07/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -494,4 +497,12 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
