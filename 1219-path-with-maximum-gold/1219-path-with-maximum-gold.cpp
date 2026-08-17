@@ -29,3 +29,8 @@ public:
         return gold;
     }
 };
+
+// O(n*(3^n)) O(n) DFS, Backtracking
+// We try all non zero elements as starting points of dfs
+// for each we exlore all 4 direction and keep adding the max score
+// after a dfs we backtrack and reset the old value of grid
