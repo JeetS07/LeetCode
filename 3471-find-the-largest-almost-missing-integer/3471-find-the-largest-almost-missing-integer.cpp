@@ -28,3 +28,9 @@ public:
         }
     }
 };
+
+// there are 3 diff cases:
+// k=1, return max unique element
+// k=n, return max of nums
+// 1<k<n, only first and last element of nums are eligible 
+// if both are unique return max of them else return the unique one
