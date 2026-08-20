@@ -420,6 +420,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JeetS07/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/JeetS07/LeetCode/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JeetS07/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1729-find-followers-count](https://github.com/JeetS07/LeetCode/tree/master/1729-find-followers-count) |
 ## Simulation
 |  |
 | ------- |
