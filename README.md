@@ -418,6 +418,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0197-rising-temperature](https://github.com/JeetS07/LeetCode/tree/master/0197-rising-temperature) |
 | [0619-biggest-single-number](https://github.com/JeetS07/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/JeetS07/LeetCode/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/JeetS07/LeetCode/tree/master/1075-project-employees-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JeetS07/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/JeetS07/LeetCode/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JeetS07/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
