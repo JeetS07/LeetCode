@@ -10,6 +10,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0033-search-in-rotated-sorted-array](https://github.com/JeetS07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JeetS07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/JeetS07/LeetCode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/JeetS07/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/JeetS07/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/JeetS07/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
