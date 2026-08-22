@@ -422,6 +422,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/JeetS07/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/JeetS07/LeetCode/tree/master/0197-rising-temperature) |
+| [0596-classes-with-at-least-5-students](https://github.com/JeetS07/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/JeetS07/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/JeetS07/LeetCode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/JeetS07/LeetCode/tree/master/1075-project-employees-i) |
