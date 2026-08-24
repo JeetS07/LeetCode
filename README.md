@@ -47,6 +47,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JeetS07/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JeetS07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JeetS07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JeetS07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JeetS07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JeetS07/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JeetS07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JeetS07/LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JeetS07/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JeetS07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0209-minimum-size-subarray-sum](https://github.com/JeetS07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JeetS07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JeetS07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -503,12 +508,14 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JeetS07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
