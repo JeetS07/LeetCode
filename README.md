@@ -105,6 +105,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1331-rank-transform-of-an-array](https://github.com/JeetS07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JeetS07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JeetS07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeetS07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JeetS07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/JeetS07/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0129-sum-root-to-leaf-numbers](https://github.com/JeetS07/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -555,4 +559,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
