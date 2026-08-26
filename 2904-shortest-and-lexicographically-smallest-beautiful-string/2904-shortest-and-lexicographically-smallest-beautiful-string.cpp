@@ -2,7 +2,7 @@ class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
         int ones=0;
-        vector<string> ans;
+        string ans="";
 
         int i=0, j=0;
 
@@ -13,7 +13,9 @@ public:
             if (ones==k) {
                 while(s[i]=='0') i++;
 
-                ans.push_back(s.substr(i,j-i+1));
+                string current = s.substr(i,j-i+1);
+                if (ans.empty() || current.size()<ans.size() || (current.size()==ans.size() && current<ans)) 
+                    ans = current;
 
                 ones--;
                 i++;
@@ -22,14 +24,6 @@ public:
             j++;
         }
 
-        if (ans.empty())
-            return "";
-
-        sort(ans.begin(),ans.end(),[](string &a, string &b){
-            if(a.size()!=b.size()) return a.size()<b.size();
-            return a<b;
-        });
-
-        return ans[0];
+        return ans;
     }
 };
