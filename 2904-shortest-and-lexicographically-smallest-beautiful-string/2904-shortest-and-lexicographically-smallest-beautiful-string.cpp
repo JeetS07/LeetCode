@@ -7,17 +7,17 @@ public:
         int i=0, j=0;
 
         while (j<s.size()) {
-            if (s[j]=='1')
+            if (s[j]=='1') // maintaining 1 count in substring
                 ones++;
 
             if (ones==k) {
-                while(s[i]=='0') i++;
+                while(s[i]=='0') i++; // removing leading 0
 
-                string current = s.substr(i,j-i+1);
+                string current = s.substr(i,j-i+1); // current beautiful substring
                 if (ans.empty() || current.size()<ans.size() || (current.size()==ans.size() && current<ans)) 
-                    ans = current;
+                    ans = current; // maintaining smallest beautiful substring
 
-                ones--;
+                ones--; // removing leftmost 1
                 i++;
             }
 
