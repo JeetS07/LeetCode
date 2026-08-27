@@ -14,6 +14,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/JeetS07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JeetS07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JeetS07/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/JeetS07/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/JeetS07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/JeetS07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/JeetS07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/JeetS07/LeetCode/tree/master/0221-maximal-square) |
