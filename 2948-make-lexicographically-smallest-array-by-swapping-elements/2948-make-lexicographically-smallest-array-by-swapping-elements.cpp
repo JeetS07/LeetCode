@@ -28,3 +28,11 @@ public:
         return nums;
     }
 };
+
+// Sorting
+// nlogn, n
+
+// first we create mapping of value to index in v, then we sort it
+// now finding each group and extracting the indexes involved in the grp
+// and sorting those, values are already sorted, now we place the values
+// in respective index
