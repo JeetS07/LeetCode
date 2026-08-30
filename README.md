@@ -451,6 +451,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0197-rising-temperature](https://github.com/JeetS07/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/JeetS07/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/JeetS07/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/JeetS07/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/JeetS07/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/JeetS07/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/JeetS07/LeetCode/tree/master/0620-not-boring-movies) |
