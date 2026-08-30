@@ -16,3 +16,12 @@ public:
         return min({a+1+n-b, b+1, n-a});
     }
 };
+
+// Greedy
+// n 1
+
+// 2 elements need to be removed, max and min
+// 3 possibilities: 
+// both near to same ends
+// both near to different ends: left and right
+// returning min of 3 ans
