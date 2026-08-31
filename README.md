@@ -549,6 +549,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0021-merge-two-sorted-lists](https://github.com/JeetS07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/JeetS07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/JeetS07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JeetS07/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
