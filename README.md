@@ -107,6 +107,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0146-lru-cache](https://github.com/JeetS07/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JeetS07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/JeetS07/LeetCode/tree/master/0460-lfu-cache) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/JeetS07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0146-lru-cache](https://github.com/JeetS07/LeetCode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/JeetS07/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/JeetS07/LeetCode/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0023-merge-k-sorted-lists](https://github.com/JeetS07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/JeetS07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/JeetS07/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/JeetS07/LeetCode/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JeetS07/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -601,4 +604,5 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/JeetS07/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/JeetS07/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
