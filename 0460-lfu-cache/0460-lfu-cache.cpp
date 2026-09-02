@@ -1,21 +1,21 @@
 class LFUCache {
 public:
     int capacity, minFreq;
-    unordered_map<int, pair<int,int>> keyVal;
-    unordered_map<int, list<int>> freqList;
-    unordered_map<int, list<int>::iterator> pos;
+    unordered_map<int, pair<int,int>> keyVal; // stores {key,{val,freq}}
+    unordered_map<int, list<int>> freqList; // stores {freq,{list of keys with this freq}}
+    unordered_map<int, list<int>::iterator> pos; // stores {key,list iterator holding this key in list} (so we can delete key from list in O(1) time)
 
     void updateFreq(int key){
         int curr_freq=keyVal[key].second;
-        freqList[curr_freq].erase(pos[key]);
+        freqList[curr_freq].erase(pos[key]); // delete key from old freq bucket
 
-        keyVal[key].second++;
+        keyVal[key].second++; // increment freq 
         curr_freq=keyVal[key].second;
 
-        freqList[curr_freq].push_back(key);
-        pos[key]=--freqList[curr_freq].end();
+        freqList[curr_freq].push_back(key); // insert key in new freq
+        pos[key]=--freqList[curr_freq].end(); // update new pos of key
 
-        if(freqList[minFreq].size()==0) minFreq++;
+        if(freqList[minFreq].size()==0) minFreq++; // check for minFreq 
     }
 
     LFUCache(int c) {
