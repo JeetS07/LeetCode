@@ -472,6 +472,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1075-project-employees-i](https://github.com/JeetS07/LeetCode/tree/master/1075-project-employees-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JeetS07/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/JeetS07/LeetCode/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/JeetS07/LeetCode/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/JeetS07/LeetCode/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JeetS07/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/JeetS07/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
