@@ -27,6 +27,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0162-find-peak-element](https://github.com/JeetS07/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JeetS07/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/JeetS07/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/JeetS07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/JeetS07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/JeetS07/LeetCode/tree/master/0221-maximal-square) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/JeetS07/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0073-set-matrix-zeroes](https://github.com/JeetS07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JeetS07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/JeetS07/LeetCode/tree/master/0221-maximal-square) |
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/JeetS07/LeetCode/tree/master/1260-shift-2d-grid) |
