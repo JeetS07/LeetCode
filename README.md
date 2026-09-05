@@ -313,6 +313,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/JeetS07/LeetCode/tree/master/0137-single-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JeetS07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/JeetS07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JeetS07/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/JeetS07/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -531,6 +535,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0129-sum-root-to-leaf-numbers](https://github.com/JeetS07/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
