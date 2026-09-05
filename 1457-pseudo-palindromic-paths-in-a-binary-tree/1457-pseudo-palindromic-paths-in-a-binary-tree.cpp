@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int ans;
+    int ans=0;
 
     void dfs(TreeNode* root, int &count, vector<int> &f){
         if(!root) return;
@@ -34,7 +34,6 @@ public:
     }
 
     int pseudoPalindromicPaths (TreeNode* root) {
-        ans=0;
         vector<int> f(10,0);
         int count=0;
 
