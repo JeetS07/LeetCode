@@ -42,3 +42,12 @@ public:
         
     }
 };
+
+// DFS, Backtracking
+// O(n=nodes) O(h=height)
+
+// using dfs to traverse all root to leaf path and parellely finding
+// count of odd freq elements. Palindrome is only possible if this count is <= 1
+// on every root we check, if prev freq of this element was odd, then count--
+// as adding one will make it even, and opposite for even. On hitting a leaf node
+// we increase ans if count is <= 1. Then backtrack as reset freq and count value 
