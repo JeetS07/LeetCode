@@ -30,8 +30,9 @@ public:
             solve(people_skill, i+1, temp, (mask | people_skill[i]));
             temp.pop_back(); // backtracking
 
-            dp[key] = (temp.size()!=0) ? temp.size() : -1;
         }
+        
+        dp[key] = (temp.size()!=0) ? temp.size() : -1;
     }
 
     vector<int> smallestSufficientTeam(vector<string>& req_skills, vector<vector<string>>& people) {
