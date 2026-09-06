@@ -149,6 +149,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JeetS07/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JeetS07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/JeetS07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/JeetS07/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JeetS07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0055-jump-game](https://github.com/JeetS07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/JeetS07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/JeetS07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/JeetS07/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
