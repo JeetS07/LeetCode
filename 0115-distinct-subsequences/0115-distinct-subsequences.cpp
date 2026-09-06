@@ -16,3 +16,9 @@ public:
         return solve(0,0,s,t);
     }
 };
+
+// Recursion Dp
+
+// if s[i]!=t[j] -> dfs(i+1,j)
+// if s[i]==t[j] -> dfs(i+1,j+1) (mark s[i] and t[j] match)
+//                + dfs(i+1,j+1) (try matching t[j] with next possible s[i])
