@@ -493,6 +493,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1321-restaurant-growth](https://github.com/JeetS07/LeetCode/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JeetS07/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/JeetS07/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/JeetS07/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/JeetS07/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/JeetS07/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/JeetS07/LeetCode/tree/master/1729-find-followers-count) |
