@@ -21,27 +21,19 @@ public:
 
     vector<int> countSmaller(vector<int>& nums) {
         n=nums.size();
-        bit = vector<int>(n+1,0);
+        bit=vector<int>(n+1,0);
 
         vector<pair<int,int>> v;
         for(int i=0;i<n;i++) v.push_back({nums[i],i});
 
         sort(v.begin(),v.end());
-
+        
         vector<int> ans(n);
         for(auto [element,i]:v){
             update(1,i+1);
             ans[i]=query(n)-query(i+1);
-        }   
+        }
 
-        return ans;   
+        return ans;
     }
 };
-
-// Fenwick Tree
-// O(nlogn) O(n)
-// we are first sorting the array by preserving the indexes
-// now we keep bit array with 0, and starting from smallest element,
-// we keep placing 1 on that index and find the ranged sum from that
-// index to right, that gives the count of smaller element to the right
-// of that index
