@@ -34,3 +34,9 @@ public:
         return ans;
     }
 };
+
+// O(n) O(n)
+// Recursion
+
+// starting from bottom, for each node we are finding sum and count
+// if curr avg==root->val ans++, then returning curr {sum,count} to upper node
