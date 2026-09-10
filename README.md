@@ -368,6 +368,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JeetS07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/JeetS07/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JeetS07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JeetS07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
 |  |
 | ------- |
