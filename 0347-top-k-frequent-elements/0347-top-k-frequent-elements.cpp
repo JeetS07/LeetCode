@@ -18,3 +18,11 @@ public:
         return ans;
     }
 };
+
+// O(n) O(n)
+// Hashing
+
+// first we are finding freq of all elements, then creating a vector v
+// where all elements are stored according to their freq(which is the index)
+// now traversing v from last so we get the highest freq at first and appending 
+// each element in ans till ans size reaches k
