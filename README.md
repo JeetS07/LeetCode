@@ -39,6 +39,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/JeetS07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
+| [0835-image-overlap](https://github.com/JeetS07/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/JeetS07/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1125-smallest-sufficient-team](https://github.com/JeetS07/LeetCode/tree/master/1125-smallest-sufficient-team) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/JeetS07/LeetCode/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/JeetS07/LeetCode/tree/master/0835-image-overlap) |
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/JeetS07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
