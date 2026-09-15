@@ -15,7 +15,7 @@ public:
     }
 
     int solve(string &s, int &k, int i, int j){
-        if(i>=n || j>=n) return 0;
+        if(j>=n) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
 
         if(isP(s,i,j)){
