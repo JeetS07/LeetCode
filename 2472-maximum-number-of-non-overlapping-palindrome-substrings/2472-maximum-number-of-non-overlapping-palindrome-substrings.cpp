@@ -40,3 +40,15 @@ public:
         return solve(s,k,0,k-1);
     }
 };
+
+// Recursion, DP
+// O(n^3) O(n^2)
+
+// we are staring with first substring of size k, from there we have 2 outcomes
+// curr is Palindrome, we have 3 choices:
+//        take the curr substring for ans and check next substring of size k
+//        dont take the curr substring for ans and increase substring size
+//        dont take the curr substring for ans and slide the k size window
+// curr is not Palindrome, we have 2 choices:
+//        dont take the curr substring for ans and increase substring size
+//        dont take the curr substring for ans and slide the k size window
