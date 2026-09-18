@@ -127,6 +127,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JeetS07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JeetS07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeetS07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JeetS07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0940-distinct-subsequences-ii](https://github.com/JeetS07/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JeetS07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JeetS07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JeetS07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JeetS07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JeetS07/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JeetS07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JeetS07/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JeetS07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JeetS07/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/JeetS07/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JeetS07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JeetS07/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JeetS07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JeetS07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
