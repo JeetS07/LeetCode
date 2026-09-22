@@ -17,3 +17,10 @@ public:
         return ans;
     }
 };
+
+// O(nlogn) O(n)
+// Greedy
+
+// For each people, we find (costs[i][1]-costs[i][0]) in arr
+// now when we sort arr, values at first half are at highest 
+// advantage to go to B, rest half goes to A
