@@ -43,6 +43,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0835-image-overlap](https://github.com/JeetS07/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/JeetS07/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1029-two-city-scheduling](https://github.com/JeetS07/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1125-smallest-sufficient-team](https://github.com/JeetS07/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JeetS07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/JeetS07/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
+| [1029-two-city-scheduling](https://github.com/JeetS07/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JeetS07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0049-group-anagrams](https://github.com/JeetS07/LeetCode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/JeetS07/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1029-two-city-scheduling](https://github.com/JeetS07/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/JeetS07/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JeetS07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -699,4 +702,12 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0836-rectangle-overlap](https://github.com/JeetS07/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JeetS07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/JeetS07/LeetCode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/JeetS07/LeetCode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
