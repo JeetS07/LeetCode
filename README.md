@@ -89,6 +89,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3875-construct-uniform-parity-array-i](https://github.com/JeetS07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JeetS07/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/JeetS07/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/JeetS07/LeetCode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Binary Search
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JeetS07/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JeetS07/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/JeetS07/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/JeetS07/LeetCode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Backtracking
 |  |
 | ------- |
