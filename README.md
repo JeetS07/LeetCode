@@ -129,6 +129,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0460-lfu-cache](https://github.com/JeetS07/LeetCode/tree/master/0460-lfu-cache) |
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/JeetS07/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/JeetS07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JeetS07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0763-partition-labels](https://github.com/JeetS07/LeetCode/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/JeetS07/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JeetS07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JeetS07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JeetS07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0295-find-median-from-data-stream](https://github.com/JeetS07/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JeetS07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1029-two-city-scheduling](https://github.com/JeetS07/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/JeetS07/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JeetS07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JeetS07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0131-palindrome-partitioning](https://github.com/JeetS07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
@@ -427,6 +431,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -582,6 +587,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/JeetS07/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JeetS07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
