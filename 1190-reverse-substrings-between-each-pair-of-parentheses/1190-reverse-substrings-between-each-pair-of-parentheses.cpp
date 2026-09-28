@@ -1,18 +1,34 @@
 class Solution {
 public:
     string reverseParentheses(string s) {
+        int n = s.length();
         stack<int> openBracket;
-        string result;
+        vector<int> door(n);
 
-        for (char curr:s) {
-            if(curr == '(') openBracket.push(result.size());
-            else if(curr == ')') {
-                int start = openBracket.top();
+        // Pairing parentheses
+        for(int i=0;i<n;i++) {
+            if(s[i] == '(') openBracket.push(i);
+            else if(s[i] == ')'){
+                int j = openBracket.top();
                 openBracket.pop();
-                reverse(result.begin()+start,result.end());
+                door[i] = j;
+                door[j] = i;
+            }
+        }
+
+        // Build the result string
+        string result;
+        int direction = 1; // Left to Right
+        for(int i=0;i<n;i+=direction){
+            if(s[i] == '(' || s[i] == ')'){
+                i = door[i];
+                direction = -direction; // reversing direction
             } 
-            else result += curr;
+            else result += s[i];
         }
         return result;
     }
 };
+
+// Wormhole Teleportation
+// O(n) 
