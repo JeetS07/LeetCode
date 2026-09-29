@@ -28,3 +28,9 @@ public:
         return solve(0,0,0,grid);
     }
 };
+
+// Dp, Recursion
+// exploring all possible path using recursion and returning true when a valid is found
+// using openCount to track if current parenthesis string is valid, when we find a '(', openCount++
+// when we find a ')', openCount--, so openCount==0 give a valid sequence, we also terminate if
+// openCount<0, eg. ))((
