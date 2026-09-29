@@ -62,6 +62,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JeetS07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JeetS07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JeetS07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JeetS07/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JeetS07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JeetS07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1510-stone-game-iv](https://github.com/JeetS07/LeetCode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/JeetS07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/JeetS07/LeetCode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JeetS07/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JeetS07/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JeetS07/LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JeetS07/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/JeetS07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JeetS07/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JeetS07/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -731,4 +734,5 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JeetS07/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JeetS07/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
