@@ -366,6 +366,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0046-permutations](https://github.com/JeetS07/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/JeetS07/LeetCode/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/JeetS07/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/JeetS07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
