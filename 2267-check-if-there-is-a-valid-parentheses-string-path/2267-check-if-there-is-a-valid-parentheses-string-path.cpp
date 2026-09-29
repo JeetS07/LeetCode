@@ -22,7 +22,7 @@ public:
         m=grid.size(), n=grid[0].size();
 
         // if((m+n-1) % 2 == 1) return false;
-        if(grid[0][0]==')' or grid[m-1][n-1]=='(') return false;
+        // if(grid[0][0]==')' or grid[m-1][n-1]=='(') return false;
 
         memset(dp,-1,sizeof(dp));
         return solve(0,0,0,grid);
