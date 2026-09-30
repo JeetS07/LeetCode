@@ -17,3 +17,10 @@ public:
         return ans;
     }
 };
+
+// O(n)
+// we try to divide the total depth in 2 groups to get the minimal depth in either grps
+// when we hit a opening bracket it increases depth, if current depth is even we send it to 
+// group 0 else group 1, thereby divide equally among 2 groups, while each grp with minimal
+// possible depth. we also need to keep groups balanced, so applying the same logic on closing
+// bracket. if the decreased depth after hitting closing bracket, is even we send it to 0 else 1
