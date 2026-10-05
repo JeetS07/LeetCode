@@ -24,3 +24,7 @@ public:
         return solve(0,0,s,n);
     }
 };
+
+// Dp Recursion
+// we have 3 choices for *, take it as '(' or ')' or ""
+// exploring all possible choices, for ')', we only process if open>1
