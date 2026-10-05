@@ -1,40 +1,26 @@
 class Solution {
-public: 
-    bool checkValidString(string s) {
-        vector<vector<int>> memo(s.size(), vector<int>(s.size(), -1));
-        return isValidString(0, 0, s, memo);
+public:
+    int dp[101][101];
+
+    bool solve(int i, int open, string &s, int &n){
+        if(i==n) return open==0;
+        if(dp[i][open]!=-1) return dp[i][open];
+
+        bool isValid=0;
+        if(s[i]=='*'){
+            isValid |= solve(i+1,open+1,s,n);
+            isValid |= solve(i+1,open,s,n);
+            if(open>0) isValid |= solve(i+1,open-1,s,n);
+        }
+        else if(s[i]=='(') isValid |= solve(i+1,open+1,s,n);
+        else if(open>0) isValid |= solve(i+1,open-1,s,n);
+
+        return dp[i][open] = isValid;
     }
-private: 
-    bool isValidString(int index, int openCount,
-        const string & str, vector < vector < int >> & memo) {
-        // If reached end of the string, check if all brackets are balanced
-        if (index == str.size()) {
-            return (openCount == 0);
-        }
 
-        // If already computed, return memoized result
-        if (memo[index][openCount] != -1) {
-            return memo[index][openCount];
-        }
-
-        bool isValid = false;
-        // If encountering '*', try all possibilities
-        if (str[index] == '*') {
-            isValid |= isValidString(index + 1, openCount + 1, str, memo); // Treat '*' as '('
-            if (openCount) {
-                isValid |= isValidString(index + 1, openCount - 1, str, memo); // Treat '*' as ')'
-            }
-            isValid |= isValidString(index + 1, openCount, str, memo); // Treat '*' as empty
-        } else {
-            // Handle '(' and ')'
-            if (str[index] == '(') {
-                isValid = isValidString(index + 1, openCount + 1, str, memo); // Increment count for '('
-            } else if (openCount) {
-                isValid = isValidString(index + 1, openCount - 1, str, memo); // Decrement count for ')'
-            }
-        }
-
-        // Memoize and return the result
-        return memo[index][openCount] = isValid;
+    bool checkValidString(string s) {
+        int n=s.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(0,0,s,n);
     }
 };
