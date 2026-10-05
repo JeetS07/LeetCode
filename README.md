@@ -563,6 +563,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0619-biggest-single-number](https://github.com/JeetS07/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/JeetS07/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/JeetS07/LeetCode/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/JeetS07/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/JeetS07/LeetCode/tree/master/1075-project-employees-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JeetS07/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/JeetS07/LeetCode/tree/master/1211-queries-quality-and-percentage) |
