@@ -174,6 +174,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0115-distinct-subsequences](https://github.com/JeetS07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/JeetS07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/JeetS07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/JeetS07/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JeetS07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/JeetS07/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0077-combinations](https://github.com/JeetS07/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/JeetS07/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/JeetS07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/JeetS07/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/JeetS07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/JeetS07/LeetCode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
