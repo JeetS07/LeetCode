@@ -3,13 +3,13 @@ private:
     unordered_set<string> st;
     int n;
 
-    void solve(const string& s, int i, string& curr, int count, int& maxLen) {
-        if (count < 0)  //invalid
+    void solve(string& s, int i, string& curr, int count, int& maxLen) {
+        if (count < 0) //invalid
             return;
 
         if (i == n) {
             if (count == 0) {
-                if (curr.length() > maxLen) { // found a longer valid string
+                if (curr.length() > maxLen) { //found a longer valid string
                     maxLen = curr.length();
                     st.clear();
                 }
@@ -21,7 +21,7 @@ private:
             return;
         }
 
-        if (s[i] != '(' && s[i] != ')') { // letter: always keep
+        if (s[i] != '(' && s[i] != ')') { // letter
             curr.push_back(s[i]);
             solve(s, i + 1, curr, count, maxLen);
             curr.pop_back();
@@ -31,7 +31,7 @@ private:
         // Do and Explore
         curr.push_back(s[i]);
         solve(s, i + 1, curr, count + (s[i] == '(' ? 1 : -1), maxLen);
-        // Undo and explore
+        // Undo and Explore
         curr.pop_back();
         solve(s, i + 1, curr, count, maxLen);
     }
