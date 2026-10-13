@@ -242,6 +242,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0172-factorial-trailing-zeroes](https://github.com/JeetS07/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/JeetS07/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/JeetS07/LeetCode/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/JeetS07/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/JeetS07/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/JeetS07/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0078-subsets](https://github.com/JeetS07/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/JeetS07/LeetCode/tree/master/0137-single-number-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/JeetS07/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1125-smallest-sufficient-team](https://github.com/JeetS07/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/JeetS07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0021-merge-two-sorted-lists](https://github.com/JeetS07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/JeetS07/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/JeetS07/LeetCode/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/JeetS07/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
 | ------- |
