@@ -13,3 +13,8 @@ public:
         return ans;
     }
 };
+
+// O(n) O(1)
+// we are trying to put maximum no. of 9s, then put
+//  the remaining digit, and fill rest space with 0
+// that gives the largest answer
