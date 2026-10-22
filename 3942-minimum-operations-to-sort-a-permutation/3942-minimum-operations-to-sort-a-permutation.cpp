@@ -29,3 +29,10 @@ public:
         else return -1;
     }
 };
+
+// either nums in circular ascending or descending
+// 
+// Asc: if nums[0]==0 -> 0
+//      left rotate
+//      right rotate
+// Dsc: reverse -> Asc
