@@ -47,6 +47,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1125-smallest-sufficient-team](https://github.com/JeetS07/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/JeetS07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/JeetS07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JeetS07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/JeetS07/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/JeetS07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JeetS07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/JeetS07/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/JeetS07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0128-longest-consecutive-sequence](https://github.com/JeetS07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JeetS07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/JeetS07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JeetS07/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JeetS07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JeetS07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0221-maximal-square](https://github.com/JeetS07/LeetCode/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/JeetS07/LeetCode/tree/master/0835-image-overlap) |
 | [1219-path-with-maximum-gold](https://github.com/JeetS07/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/JeetS07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JeetS07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/JeetS07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JeetS07/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
