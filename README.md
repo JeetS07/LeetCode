@@ -99,6 +99,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JeetS07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JeetS07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JeetS07/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/JeetS07/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/JeetS07/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/JeetS07/LeetCode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JeetS07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/JeetS07/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JeetS07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JeetS07/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JeetS07/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JeetS07/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
