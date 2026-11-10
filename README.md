@@ -98,6 +98,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JeetS07/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JeetS07/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/JeetS07/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/JeetS07/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JeetS07/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JeetS07/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/JeetS07/LeetCode/tree/master/3731-find-missing-elements) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3524-find-x-value-of-array-i](https://github.com/JeetS07/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JeetS07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/JeetS07/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/JeetS07/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JeetS07/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/JeetS07/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
