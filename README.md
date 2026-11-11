@@ -498,6 +498,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0200-number-of-islands](https://github.com/JeetS07/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JeetS07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JeetS07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/JeetS07/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0743-network-delay-time](https://github.com/JeetS07/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/JeetS07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1254-number-of-closed-islands](https://github.com/JeetS07/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0139-word-break](https://github.com/JeetS07/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/JeetS07/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
