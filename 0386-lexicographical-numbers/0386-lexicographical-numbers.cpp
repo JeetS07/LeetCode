@@ -21,3 +21,7 @@ public:
         return ans;
     }
 };
+
+// Recursion
+// O(n) O(no. of digits in n)
+// starting with 1, appending a digit and checking if it is less than n
