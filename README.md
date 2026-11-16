@@ -239,6 +239,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JeetS07/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/JeetS07/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/JeetS07/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3913-sort-vowels-by-frequency](https://github.com/JeetS07/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JeetS07/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/JeetS07/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JeetS07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/JeetS07/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JeetS07/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JeetS07/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JeetS07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3913-sort-vowels-by-frequency](https://github.com/JeetS07/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
