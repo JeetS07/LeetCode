@@ -30,3 +30,8 @@ public:
         return s;
     }
 };
+
+// O(nlogn) O(n)
+// extracting out the vowels and sorting them based on freq
+// in case of tie prioritizing first occurance, then adding 
+// back those sorted vowels in sequence in the original string
